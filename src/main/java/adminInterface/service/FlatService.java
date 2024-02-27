@@ -13,6 +13,7 @@ import adminInterface.exception.FlatNotFoundException;
 import adminInterface.model.Flat;
 import adminInterface.model.LastPaidDetails;
 import adminInterface.repo.FlatRepo;
+import adminInterface.repo.LastPaidDetailsRepo;
 
 @Service
 @Transactional

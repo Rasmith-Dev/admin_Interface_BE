@@ -16,3 +16,4 @@ public interface FlatServiceImpl {
 
 	    public void deleteFlatDetails(Long id);
 }
+
